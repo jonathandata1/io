@@ -1,0 +1,10 @@
+include README.rst
+include COPYING
+include COPYING.LESSER
+include examples/README
+include examples/*.py
+include usb1/testUSB1.py
+include stdeb.cfg
+include versioneer.py
+include usb1/_version.py
+include usb1/*.dll

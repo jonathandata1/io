@@ -11,4 +11,4 @@
 #
 # Modified 02/08/2021
 
-python3 $PWD/io/python-libusb1/examples/usbcomdetect.py
+python3 $PWD/python-libusb1/examples/usbcomdetect.py
